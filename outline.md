@@ -5,7 +5,6 @@ Starting a new CoderDojo is a daunting solitary process. Kids that are learning 
 - **Event**: DojoCon 2013
 - **Duration**: 30 mins
 
-
 ---
 
 ## Intro
@@ -44,7 +43,7 @@ Starting a new CoderDojo is a daunting solitary process. Kids that are learning 
 - Pros:
   - Lots of info
   - Lots of experience
-  - Lost of resources
+  - Lots of resources
 - Cons:
   - Too much information
   - Open ended instructions
@@ -81,7 +80,7 @@ Starting a new CoderDojo is a daunting solitary process. Kids that are learning 
     - Target specific mentor skills with mentor teams.
 
 ## Build the future, together
-- I invasion a better, collaborative future.
+- I invision a better, collaborative future.
 - Simple jumpstart guide.
   - One version/format
   - Easy, concise steps
